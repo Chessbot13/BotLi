@@ -51,10 +51,7 @@ engine:                                   # Engine settings.
     Ponder: true
     Use NNUE: true
     Skill Level: 20
-    Slow Mover: 80
-    UCI_Chess960: true
     UCI_AnalyseMode: true
-    UCI_Elo: 2850
 #   SyzygyPath: "/path/to/syzygy"         # Path to your local syzygy endgame tablebases
 
 move_overhead_multiplier: 1.0             # Increase if your bot flags games too often. Default move overhead is 1 second per 1 minute initital time.
